@@ -2,7 +2,7 @@
 The main goal of this project is to analyze the Coal Stocks data is taken from thermal power stations across India.
 
 
-🎯 **Objective of the Project**
+ **Objective of the Project**
 
 This dataset gives a complete operational snapshot of coal availability at power plants in India. It helps monitor:
 
@@ -14,7 +14,7 @@ Identification of critical power stationsm
 Dependency on imported vs local coal
 
 
-🔍 **Key Insights from Daily coal stocks**
+**Key Insights from Daily coal stocks**
 
 _Wide Operational Coverage_ :- 
 The dataset spans 17 states and ~189 power stations, giving a comprehensive view of coal availability and performance across India’s thermal power sector.
